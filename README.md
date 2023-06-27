@@ -8,4 +8,4 @@
  
 💞️ I'm looking to collaborate on open-source projects that have the potential to make a positive impact in the world. Whether it's building a new web application or contributing to an existing project, I'm always eager to work with others to create something meaningful. 
  
-📫 If you're interested in collaborating with me or have any questions, feel free to reach out to me on GitHub . I'm always happy to connect with new people and explore new opportunities.
+
